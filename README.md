@@ -5,5 +5,6 @@
 - コマンドで実行できます
 
 ````
-face_mozaic.py {画像のpath} {出力のpath}
+face_mozaic.py {画像のpath} 
 ````
+出力はoutimgのフォルダに入っています
